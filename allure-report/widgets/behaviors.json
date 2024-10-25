@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"eeba9230379865b92954fa4ba7c9e6db","name":"Demo evershop site product purchase journey","statistic":{"failed":0,"broken":1,"skipped":0,"passed":3,"unknown":0,"total":4}},{"uid":"3f74e5ef7e1840129ad93e409e07bc5e","name":"Demo evershop site auth journey","statistic":{"failed":0,"broken":0,"skipped":2,"passed":1,"unknown":0,"total":3}}]}

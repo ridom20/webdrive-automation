@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7879","successfully logout","","Sat Oct 26 00:34:48 GMT+06:00 2024","passed","Sat Oct 26 00:34:55 GMT+06:00 2024","","Demo evershop site product purchase journey","",""
+"","1","successfully login","","Sat Oct 26 00:33:20 GMT+06:00 2024","skipped","Sat Oct 26 00:33:20 GMT+06:00 2024","","Demo evershop site auth journey","",""
+"","44","successfully verify total amount and grand total","","Sat Oct 26 00:34:48 GMT+06:00 2024","passed","Sat Oct 26 00:34:48 GMT+06:00 2024","","Demo evershop site product purchase journey","",""
+"","27754","successfully add product in the cart","","Sat Oct 26 00:34:20 GMT+06:00 2024","passed","Sat Oct 26 00:34:48 GMT+06:00 2024","","Demo evershop site product purchase journey","",""
+"","1","successfully logout","","Sat Oct 26 00:33:20 GMT+06:00 2024","skipped","Sat Oct 26 00:33:20 GMT+06:00 2024","","Demo evershop site auth journey","",""
+"","60026","successfully search product","","Sat Oct 26 00:33:20 GMT+06:00 2024","broken","Sat Oct 26 00:34:20 GMT+06:00 2024","","Demo evershop site product purchase journey","",""
+"","7399","successfully register","","Sat Oct 26 00:33:12 GMT+06:00 2024","passed","Sat Oct 26 00:33:20 GMT+06:00 2024","","Demo evershop site auth journey","",""
